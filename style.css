@@ -1,0 +1,59 @@
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.container-fluid{
+    
+    width: 100%;
+
+    background: #200b75;
+    
+}
+.navbar ul li a:hover{
+    color:#fff;
+}
+.fs-4{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.lead{
+    color: white;
+}
+.title{
+    color: white;
+}
+.image{
+    clip-path: circle();
+    border: 1px solid white;
+
+}
+.container1{
+    width: 100%;
+    
+}
+.img-class{
+    min-height: 275px;
+}
+.container-section2{
+    width:100% ;
+    
+}
+.image1{
+    max-width: 330px;
+    float: left;
+}
+.image3{
+    clip-path: circle();
+    border: 3px solid white;
+
+}
+.image4 {
+    clip-path: circle();
+    float: left;
+}
